@@ -1,0 +1,38 @@
+{
+  "Estudantes": [
+    {
+      "id": 2123123,
+      "nome": "Joao",
+      "codigo": 32323,
+      "CPF": "2123123"
+    }
+  ],
+  "Disciplinas": [
+    {
+      "id": 23434,
+      "nome da disciplina": "matematica",
+      "codigo da disciplina": 23434
+    }
+  ],
+  "Professor": [
+    {
+      "id": 34,
+      "codigo do Professor": 332,
+      "nome do Professor": "Joaquin",
+      "CPF do Professor": "2121212"
+    }
+  ],
+  "Turmas": [
+    {
+      "codigo da turma": 12,
+      "codigo do professor": 34,
+      "codigo da disciplina": 234
+    }
+  ],
+  "Matriculas": [
+    {
+      "codigo da turma": 122,
+      "codigo do estudante": 233
+    }
+  ]
+}
