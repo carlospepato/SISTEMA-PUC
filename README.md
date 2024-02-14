@@ -1,3 +1,62 @@
+# Language: 
+- [English](#english)
+- [Português](#portuguese)
+
+## English
+
+# School Registration System 📚
+
+This is a registration system developed in Python to manage information about students, teachers, subjects, and classes. The data is stored in a JSON file, which serves as a simple database.
+
+## Features 🛠️
+
+The system offers the following features:
+
+- **Student Registration:** Allows creating, reading, updating, and deleting information about students.
+- **Teacher Registration:** Allows creating, reading, updating, and deleting information about teachers.
+- **Subject Registration:** Allows creating, reading, updating, and deleting information about subjects.
+- **Class Registration:** Allows creating, reading, updating, and deleting information about classes, including the association of students, teachers, and subjects.
+
+## Usage 🚀
+
+To run the system, make sure you have Python installed on your machine. You can follow the steps below:
+
+1. Clone this repository:
+2. 
+```
+git clone https://github.com/seu-usuario/sistema-PUC.git
+```
+
+2. Navigate to the project directory:
+   
+```
+cd sistema-PUC
+```
+
+
+3. Run the main script:
+
+```
+python sistema_puc_exe.py
+```
+
+4. Follow the instructions in the terminal to interact with the system and manage registrations.
+
+## Project Structure 📁
+
+The project is structured as follows:
+
+- **`sistema_puc_exe.py`:** The main file containing the core logic of the system.
+- **`database.json`:** The JSON file serving as a database to store registrations.
+- **`funcoes_exe.py`:** A module containing utility functions for manipulating the JSON file and other tasks.
+
+## Author 👨‍💻
+
+This system was developed by [Carlos Pepato](https://github.com/carlospepato).
+
+
+## Portuguese
+
 # Sistema de Cadastro Escolar 📚
 
 Este é um sistema de cadastro desenvolvido em Python para gerenciar informações de estudantes, professores, disciplinas e turmas. Os dados são armazenados em um arquivo JSON, que funciona como um banco de dados simples.
